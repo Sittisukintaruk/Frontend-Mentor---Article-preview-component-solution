@@ -21,8 +21,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [GIT](https://github.com/Sittisukintaruk/Frontend-Mentor---FAQ-accordion-card-solution)
-- Live Site URL: [Live](https://dainty-profiterole-62e128.netlify.app/)
+- Solution URL: [GIT](https://github.com/Sittisukintaruk/Frontend-Mentor---Article-preview-component-solution)
+- Live Site URL: [Live](https://strong-crepe-9123e2.netlify.app/)
 
 ## My process
 
